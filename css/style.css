@@ -42,10 +42,7 @@ img {
 
 @media screen and (max-width:800px) {
     .main {
-        background-color: #ff9966;
         width: 70%;
-        margin:  5% auto;
-        overflow: hidden;
     }
     
     img {
